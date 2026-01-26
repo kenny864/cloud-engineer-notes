@@ -18,13 +18,13 @@ progress into real-world cloud engineering skills through hands-on practice.
 ---
 
 ## 📂 Repository Structure
-cloud-engineer-notes/
-├── linux/ # Linux fundamentals and commands
-├── networking/ # Networking basics (IP, subnets, DNS, etc.)
-├── git/ # Git and GitHub notes
-├── scripting/ # Python/Bash scripting notes
-├── aws/ # AWS notes (added later)
-└── README.md
+### cloud-engineer-notes/
+- linux/ # Linux fundamentals and commands
+- networking/ # Networking basics (IP, subnets, DNS, etc.)
+- git/ # Git and GitHub notes
+- scripting/ # Python/Bash scripting notes
+- aws/ # AWS notes (added later)
+- README.md
 
 ---
 
