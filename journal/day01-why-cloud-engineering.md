@@ -1,4 +1,5 @@
-# Why I'm Learning Cloud Engineering
+# Day 1: setup repo and learning goals
+
 ## My Goal
 I want to become a cloud engineer focusing on AWS
 
