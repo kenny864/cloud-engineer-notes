@@ -9,4 +9,4 @@
 ## What does pwd, ls, and cd do?
 - pwd: displays the name of the current directory the user is in
 - ls: list all the files inside the current directory. If we use ls -a we can see hidden files. If we put ls -l we can get a detailed list.
-- cd: changes the current directory. cd .. changes to the current's directories parent.
+- cd: changes the current directory. cd .. changes to the current's directories parent. cd ~ changes to the home directory
