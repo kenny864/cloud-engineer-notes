@@ -1,0 +1,19 @@
+# Making the web server work
+Here are the general steps used to make a web server using aws and ec2
+
+## Launch Instance
+- In AWS->ECS, click launch instance.
+- Go to security group use a security group with SSH port 22 and http port 80
+- Launch Instance then click connect.
+
+## Connect via SSH
+- In connect menu, get the command line code to ssh into the aws client.
+
+## Start Web Server
+- Install Apache
+- Start the httpd web server
+- Enable the httpd web server
+- Get the dns public id from AWS website
+
+## Best Practice
+- terminate instance after you finish
