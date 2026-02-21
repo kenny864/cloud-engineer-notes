@@ -37,7 +37,6 @@ My guess is that this is more useful for large files
 Multiple pages allows us to navigate through larger files
 - head: Displays the first few lines of a file
 - tail: Displays the last few lines of a file
-- tail -f: 
 
 ## When to use cat vs less
 - cat is better for small files because it displays everything
@@ -46,6 +45,7 @@ Multiple pages allows us to navigate through larger files
 ## Why tail -f is useful in cloud environments
 - tail shows the last 25 lines
 - tail -f shows the last 25 lines but allows these lines to be constantly updating.
+- to exit tail -f, use CTR+C
 
 ## One real-world use case (your own words)
 - During an attack, I can use tail -f to see the last 25 people to log in to hopefully see where the attack is coming from.
