@@ -20,18 +20,5 @@ Here are the general steps used to make a web server using aws and ec2
 - Start nginx server
 - get the ip from AWS EC2 page
 
-## nginx bash commands
-- Install nginx
-sudo dnf install nginx -y
-
-- Start nginx server
-sudo systemctl start nginx
-
-- Stop nginx server
-sudo systemctl stop nginx
-
-- Get status nginx server
-sudo systemctl status nginx
-
 ## Best Practice
 - terminate instance after you finish

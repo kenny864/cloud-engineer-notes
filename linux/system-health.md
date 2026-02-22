@@ -9,6 +9,15 @@
 - shows the size of the current directory
 - du -sh *: lists all the files/directories and displays the size of each one
 
+## What free -m shows
+- total memory, used memory, and available memory
+
+## What does uname -a show
+- kernel version and system type
+
+## What does top show
+- Watch running processes live
+
 ## Why disk space matters in cloud servers
 - cloud servers like aws are charged by how much space they use
 - if a cloud server runs out of space, issues can arise
